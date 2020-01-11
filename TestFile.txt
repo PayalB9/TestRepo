@@ -1,10 +1,5 @@
-Change 1 – commit with message as “Change1 in File1”
+Change1 – commit with message as “Change 1 in File1”
 
-Change 2 – commit with message as “Change2 in File1”
-
-
-Change 3 - Updated for idea bug
-
-Change 4 - for checking rebase
+Change2 – commit with message as “Change 2 in File1”
 
 
