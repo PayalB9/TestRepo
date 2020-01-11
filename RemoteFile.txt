@@ -1,1 +1,3 @@
-Change 1 - change in remote file 
+Change 1 - change in remote file
+
+Change 2 - change in remote file 
